@@ -30,8 +30,8 @@
   "tau_hold_threshold": 1.0,
   "winner": {
     "name": "Deposit-C RSL-associated",
-    "eta_sols": 9.684396832714423,
-    "distance_km": 8.18553143910877,
+    "eta_sols": 9.684396788721951,
+    "distance_km": 8.185531375759613,
     "waypoints": 150,
     "idle_sols": 4,
     "peak_tau": 2.119506359100342,
@@ -44,32 +44,32 @@
   "ranked_deposits": [
     {
       "name": "Deposit-C RSL-associated",
-      "eta_sols": 9.684396832714423,
-      "distance_km": 8.18553143910877,
+      "eta_sols": 9.684396788721951,
+      "distance_km": 8.185531375759613,
       "yield_kg_m2": 200.0,
       "row": 150,
       "col": 60
     },
     {
       "name": "Deposit-D neutron-spectrometer hit",
-      "eta_sols": 14.937561862601225,
-      "distance_km": 15.750089082145767,
+      "eta_sols": 14.937561775791558,
+      "distance_km": 15.750088957139846,
       "yield_kg_m2": 40.0,
       "row": 90,
       "col": 190
     },
     {
       "name": "Deposit-B buried lens",
-      "eta_sols": 15.268275949144561,
-      "distance_km": 16.22631736676816,
+      "eta_sols": 15.268275842749077,
+      "distance_km": 16.226317213558662,
       "yield_kg_m2": 80.0,
       "row": 210,
       "col": 220
     },
     {
       "name": "Deposit-A shallow ice sheet",
-      "eta_sols": 16.1524187874352,
-      "distance_km": 17.499483053906683,
+      "eta_sols": 16.152418681039716,
+      "distance_km": 17.499482900697185,
       "yield_kg_m2": 120.0,
       "row": 240,
       "col": 230

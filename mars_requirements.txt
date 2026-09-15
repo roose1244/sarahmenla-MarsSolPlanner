@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+rasterio
+matplotlib
+scikit-learn
+xgboost
+pillow
+tqdm
+pyyaml
+# LLM tool-calling — pick one, delete the other
+openai>=1.30
+# anthropic>=0.34

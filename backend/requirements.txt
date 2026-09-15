@@ -1,0 +1,11 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+numpy
+scipy
+pandas
+matplotlib
+pillow
+plotly
+tqdm
+pyyaml
+python-multipart
