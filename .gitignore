@@ -6,3 +6,10 @@ __pycache__/
 build/
 dist/
 .DS_Store
+.env
+.env.*
+*.env
+credentials.json
+*.pem
+*.key
+.credentials
